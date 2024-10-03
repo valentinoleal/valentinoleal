@@ -33,9 +33,5 @@
 - **Frameworks:** React _(Poco uso)_
 - **Herramientas de Seguridad:** Nmap, Wireshark, Metasploit, etc.
 
----
-
-### 🌌 **Sobre Mí:**
-Soy Valentino, un apasionado de la ciberseguridad y la tecnología. Siempre estoy buscando aprender y mejorar en cuanto a conocimientos y experiencias prácticas. Mis proyectos reflejan mi interés en la seguridad informática y mi deseo de hacer del mundo digital un lugar más seguro o por lo menos, mas conciente de sus debilidades. Si necesitas alguien que te de una mano en tus proyectos, llámame :D.
 
 ---
