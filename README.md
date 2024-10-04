@@ -1,5 +1,6 @@
 <h1 align="center">We Are Hacked</h1>
-<p align="center"><img src="[https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3523.svg](https://github.com/user-attachments/assets/e82b8903-0eb8-498b-b2ec-18225279a286)"></p>
+<p align="center">
+![bb25df5f203d4ad4ba78669abf6e8dc9](https://github.com/user-attachments/assets/fec45536-0ea7-49ba-977b-a8a69b78a3d0)
 
 
 <details>
