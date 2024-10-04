@@ -1,6 +1,5 @@
 <h1 align="center">We Are Hacked</h1>
-![asd](https://github.com/user-attachments/assets/4007cfec-bffc-40d6-80de-62aa2861ab39)
-
+<p align="center"><img src="https://github.com/valentinoleal/valentinoleal/blob/31bb5635372d716690df541e8419ec5020ab18b4/bb25df5f203d4ad4ba78669abf6e8dc9.jpg"></p>
 
 
 <details>
