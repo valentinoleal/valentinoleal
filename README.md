@@ -1,8 +1,9 @@
 <h1 align="center">We Are Hacked</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3523.svg"></p>
+<p align="center"><img src="[https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3523.svg](https://github.com/user-attachments/assets/e82b8903-0eb8-498b-b2ec-18225279a286)"></p>
+
 
 <details>
-<summary><b>👨‍💻 ¿Quien soy?</b></summary>
+<summary><b>▪️ ¿Quien soy?</b></summary>
 
 
 <table>
@@ -25,7 +26,7 @@
 </details>
 
 <details>
-<summary><b>🪁 Proyectos</b></summary>
+<summary><b>▪️ Proyectos</b></summary>
 
 ## Ciberseguridad
 
@@ -39,7 +40,7 @@
 
 
 <details>
-<summary><b>🕵️‍♂️ Educación</b></summary>
+<summary><b>▪️ Educación</b></summary>
 
 ## Inspiración
 
